@@ -2,7 +2,9 @@
 A simple model for image recognition build using Python, NumPy, matplotlib
 
 ##SAMPLE_TEST
+
 ![sample_image][sample] 
+
 [sample]: https://github.com/nihal-singh/Image_recognition/blob/master/images/sample.png "Sample-test image"
 
 if exFile.txt is not present : uncomment the createExamples function on line 104.
